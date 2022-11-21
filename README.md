@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Installed packages :
+### React-redux
+### Redux Toolkit
+### Formik
+### Yup
+### React Router
 
 ## Available Scripts
 
